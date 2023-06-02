@@ -2,6 +2,8 @@
 
 Here is a simple installation method that includes some compatibility patches.
 
+But, you can use built-in node **TomePatchModel** in vanilla ComfyUI.
+
 ## Install method:
 * method1: Use ComfyUI-Manager
   * https://github.com/ltdrdata/ComfyUI-Manager
