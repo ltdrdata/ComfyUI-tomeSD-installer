@@ -3,4 +3,4 @@
 	url = https://github.com/asd417/tomeSD_for_Comfy
 [submodule "tomesd"]
 	path = tomesd
-	url = https://github.com/dbolya/tomesd
+	url = https://github.com/ltdrdata/tomesd
